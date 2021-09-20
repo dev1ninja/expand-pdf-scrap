@@ -3,21 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dev1ninja: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@github.com/dev1ninja/expand-pdf-scrap.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.10",
-    "got": "^11.8.2",
-    "http": "0.0.1-security",
-    "https": "^1.0.0",
-    "jsdom": "^17.0.0",
-    "node-fetch": "^3.0.0",
-    "puppeteer": "^10.2.0",
-    "request": "^2.88.2",
-    "request-promise": "^4.2.6"
-  }
+  "bugs": {
+    "url": "https://github.com/dev1ninja/expand-pdf-scrap/issues"
+  },
+  "homepage": "https://github.com/dev1ninja/expand-pdf-scrap#readme"
 }
