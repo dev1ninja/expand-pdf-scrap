@@ -5,9 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.21.4",
+    "axios-cookiejar-support": "^2.0.0",
     "fs": "0.0.1-security",
     "jsdom": "^17.0.0",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
