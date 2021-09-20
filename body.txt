@@ -1,1 +1,698 @@
-[object Document]
+
+    <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=40">
+<img src="/_layouts/15/images/siteIcon.png?rev=23">
+</div>
+
+    <noscript><div class='noindex'>قد تحاول الوصول إلى هذا الموقع من مستعرض آمن موجود على الخادم. يرجى تمكين البرامج النصية وإعادة تحميل هذه الصفحة.</div></noscript>
+    
+    <form method="post" action="./default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xE7D8BB27D9A32D6366C2B1379C851CB2437A329CF7D908D6E1AEAE2859BB7086FCAA93C0368491559EB346014906F2CB3021F2A305FE9F185FE5F397D2B9A580,20 Sep 2021 16:17:04 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yGHjal9LNMB+j6UlgxKL867KLOSwG6hrRSaxehEkWfiqq4OCoa+UOPwsjMZlyMWydnxeNax4Qb7oeE4s8Pplokszdb8eZA7pVySEegGs5mnDcUe25kWeNsVXlgaeX6/fNqZatNXnV7JvI3lMaavkHMe0SmoTPOFUpVzy/2sdxZRdcw3SYPt5KnjcGfcb9daP1QPso1AkPnBFFuV2jIxfbz3wZCBdaarQRID3mMWICca+jV7dWl2dECC8a8Ne+EAs66Ts+/3nNTzPPDDywEUkh0IaYPPC8kMFnYNIsPIvjGNqNKtGk8jbvc+m+ZZ2SIDkXbFmSPVdBwnS0Inet6qvmH3xaZKiG2j1Wi46jl6mCvjbpPjvgU4TBQJvEyH5VD0nIX9z2x4/ooLn4uddGHVhXnuEY7oUPRPoG9VYP8jfScUzfAmWW25NtnGdO06dQx1WptRn0R0aiqxuvfvf+bvWRWTIhd/gwHJe0j0icOIeunu4ZqlFRdie+ybv6PfYYckGqYAn+gg6ivcuBEJl3v4/lTKssYYYUuijn60ikSNPt6uFW1+/7hR6XwcLMj/sfPQJ8QqGy9SbsU1Z6QTa6Q6m1tlhgTOjsls7uburxbYt17EqTRb20ehaARNbLHOBOrRh7Nwmis9ylfF/FqtZlQFVIRHualSac4diMV74zXws1uTYFFjqWm5FROD23+QxLkbuKZeoUAF5sg2UMN6+/KI7mGH4RnJce6wERPlnFny/08Ed3EPJgfQ/68rnhSandYrzw5Wnq9et2iwjBfulvZtZXrpmZP0o3AirT1fQS7l4zBZR1qpBbsNHbQMM2Bx1Uwax4eJ7gSKENI4+J3O3WWeAHvKgUskwyM8qtpm75fQ8oq1jhzzvZHf8kEMkWNZZbMOyvJalEZ1pAwu1L8A7mUXXi0vZ6PVM/PswyNxvDqAPfNGXxlE+Baf7dtCp9A/1sUMqjVfe046ZX5y1R1B55W9TJKrsrgLjuE19qz+yXB59Rciue+1AQvVhaGvh/f4HRYUnibnSJlks8AGgeQX6oJVymxRTRLztIyog44FB9Jfh+L7hE7/kXRNGfZKrBzcjXmSKMlqwS2F+sNBOJo1fnRWhR32ZEt4VxTKmnI9AW0VrUE6eO8tDbKQ00w6nrj5r7qcW">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=BxStka5zAtTOSu1M0jochMOpVXBWIS3JdkThV8xazMV20b4BY9y9wEFaEMjbhLZ4yFxeADVneHvHlnxir-mQoFsTzoUStg9bqXYKAvV7mmE1&amp;t=637100970046795651" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = 'bf62f19f-7e90-d083-488f-abdedeb880cc';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1025;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fMarket\u002fimf", webAbsoluteUrl: "https:\u002f\u002fcma.org.sa\u002fMarket\u002fimf", siteAbsoluteUrl: "https:\u002f\u002fcma.org.sa", serverRequestPath: "\u002fMarket\u002fimf\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "\u0635\u0646\u0627\u062F\u064A\u0642 \u0627\u0644\u0627\u0633\u062A\u062B\u0645\u0627\u0631 \u0627\u0644\u0645\u0631\u062E\u0635\u0629", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1025, currentLanguage: 1025, currentUICultureName: "ar-SA", currentCultureName: "ar-SA", clientServerTimeDelta: new Date("2021-09-20T16:17:04.2947076Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-09-20T16:17:04.2947076Z"), siteClientTag: "245$$16.0.5161.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{858c5396-3609-4071-8137-592bb5d897f7}",pageItemId:1, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};var L_Menu_BaseUrl="/Market/imf";
+var L_Menu_LCID="1025";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=DfjnlvLwjOOWu3352ntQSg%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fMarket\u002fimf', 1440000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9C2FA018">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Qz68ytPsjhO6GvKUZxuH50IHpymyPm7WtuWaA7hR8wCPLKql3ZGWbXkfyzoD3kx0gyu6ZR1U7zWi0oWJaVxEeEmt6eXMFbMSoV9AJ9HcsszgCm4zA+1Fg8M1wwQos79KtGPs0LKIBCsx8UTWQ921U05CC3MwQu35uiuRjswv6OE=">
+</div>
+        <script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+        <span id="DeltaSPWebPartManager">
+            
+        </span>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        <span id="DeltaDelegateControls">
+            
+            
+        </span>        
+        
+       <!-- start -->	             
+       <a href="#" title="الإنتقال إلى أعلى الصفحة" class="scrollup">Scroll</a>
+    <div class="header noindex">
+        <div>
+            <a href="/" title="الرئيسية" class="logo"><img alt="" src="/Portal/images/logo.png"><img alt="" src="/Portal/images/logo_sml.png"></a>
+            <div class="t_menu">
+                <ul id="menu" class="mainmenu">
+                    <li></li>                    
+                </ul>
+                <i class="clr"></i>
+            </div>
+            <div class="lang"><a id="langlink" href="" title="English">EN</a></div>
+            <div class="srch srclose">
+				<span><img alt="" src="/Portal/images/srch_img.png" title="اظهار البحث"></span>                
+				<div id="SRSB"> <div id="ctl00_SearchBox" dir="rtl">
+	<table class="ms-sbtable ms-sbtable-ex" cellpadding="0" cellspacing="0">
+		<tbody><tr class="ms-sbrow">
+			<td class="ms-sbcell"><input name="ctl00$SearchBox$S6F789EBA_InputKeywords" type="text" value="كلمات البحث ..." maxlength="200" id="ctl00_SearchBox_S6F789EBA_InputKeywords" accesskey="S" title="بحث..." class="ms-sbplain s4-searchbox-QueryPrompt" alt="بحث..." onkeypress="javascript: return S6F789EBA_OSBEK(event);" onfocus="if (document.getElementById('ctl00_SearchBox_ctl03').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_SearchBox_ctl03').value=1;}" onblur="if (this.value =='') {this.value='\u0643\u0644\u0645\u0627\u062A \u0627\u0644\u0628\u062D\u062B ...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_SearchBox_ctl03').value = '0'} else {document.getElementById('ctl00_SearchBox_ctl03').value='1';}" style="width:155px;"></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_SearchBox_S6F789EBA_go" title="بحث" href="javascript:S6F789EBA_Submit()"><img title="بحث" onmouseover="this.src='\u002fPortal\u002fimages\u002fsrch_btn.png'" onmouseout="this.src='\u002fPortal\u002fimages\u002fsrch_btn.png'" class="srch-gosearchimg" alt="بحث" src="/Portal/images/srch_btn.png"></a></td><td class="ms-sbLastcell"></td>
+		</tr>
+	</tbody></table><input name="ctl00$SearchBox$ctl03" type="hidden" id="ctl00_SearchBox_ctl03" value="0">
+</div></div>
+            </div>
+            <i class="clr"></i>
+        </div>
+    </div>
+	
+	<div class="bc">
+        <div>            
+			
+			<ul id="ctl00_PlaceHolderTitleBreadcrumb_ListSiteMapPath1" class="ms-breadcrumb">
+	<li class="ms-breadcrumbRootNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="" alt="" style="position:absolute;left:-199px !important;top:-210px !important;"></span></span><a title="هيئة السوق المالية" class="ms-breadcrumbRootNode" href="/Pages/default.aspx">هيئة السوق المالية</a><ul class="ms-breadcrumbRootNode"><li class="ms-breadcrumbNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="" alt="" style="position:absolute;left:-199px !important;top:-210px !important;"></span></span><a title="سوق المال" class="ms-breadcrumbNode" href="/Market/Pages/default.aspx">سوق المال</a><ul class="ms-breadcrumbNode"><li class="ms-breadcrumbCurrentNode"><span class="s4-breadcrumb-arrowcont"><span style="height:16px;width:16px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust s4-breadcrumb"><img src="" alt="" style="position:absolute;left:-199px !important;top:-210px !important;"></span></span><a title="صناديق الاستثمار المرخصة" class="ms-breadcrumbCurrentNode" href="/Market/imf/Pages/default.aspx">صناديق الاستثمار المرخصة</a></li></ul></li></ul></li>
+</ul>
+			
+			<div class="clr"></div>
+        </div>
+    </div>
+	
+		<div class="icons_bar noindex">
+			<div>
+				<div class="bonfire-share-activate-button" title="مشاركة">
+					<img alt="" src="/Portal/images/share.png">
+				</div>
+				<ul class="social-share-wrapper">
+					<li>
+						<a class="bonfire-twitter-button" id="twitter_share" target="_blank" href="https://twitter.com/share?url=https://cma.org.sa/Market/imf/Pages/default.aspx&amp;amp;text=الصناديق المطروحة طرحاً عاماً" title="تويتر">
+							<i class="fa fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a class="bonfire-facebook-button" id="facebook_share" target="_blank" href="https://www.facebook.com/sharer.php?u=https://cma.org.sa/Market/imf/Pages/default.aspx" title="فيسبوك">
+							<i class="fa fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a class="bonfire-linkedin-button" id="linkedin_share" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://cma.org.sa/Market/imf/Pages/default.aspx" title="لينكد ان">
+							<i class="fa fa-linkedin"></i>
+
+						</a>
+					</li>
+					<li>
+						<a class="bonfire-email-button" id="email_share" href="mailto:?subject=هيئة سوق المال - الصناديق المطروحة طرحاً عاماً&amp;body=الصناديق المطروحة طرحاً عاماً  https://cma.org.sa/Market/imf/Pages/default.aspx" title="البريد الإلكتروني">
+							<i class="fa fa-envelope"></i>
+						</a>
+					</li>
+				</ul>
+				<a href="/updates/Pages/default.aspx" title="RSS"><img alt="" src="/Portal/images/rss.png"></a>
+				<a href="#" onclick="window.print();" title="طباعة"><img alt="" src="/Portal/images/print.png"></a>
+				<a id="saveaspdf" href="/_layouts/15/CMAInternet/CMAInternetHandler.ashx?op=saveAsPDF&amp;url=https://cma.org.sa/Market/imf/Pages/default.aspx" target="_blank" title="تحميل ملف PDF"><img alt="" src="/Portal/images/download.png"></a>
+			</div>
+		</div>
+	
+	
+	<div class="int_body">
+		 <div class="cside">
+				<script type="text/javascript" src="/Portal/js/cmacompressed.js?v=5"></script>   
+				<script type="text/javascript" src="/Portal/js/jquery.colorbox-min.js"></script>
+				<script type="text/javascript" src="/Portal/js/utils.js?v=5"></script>	
+				<script type="text/javascript" src="/Portal/js/custom.js?v=28"></script>
+			<div id="DeltaPageStatusBar">
+	
+			<div id="ctl00_MSO_ContentDiv">
+				<a name="mainContent"></a>
+				
+		 <div class="ip_title">صناديق الاستثمار المرخصة</div>
+		 <div class="date en_font" style="display:none;">
+              <span id="pageDate"></span>
+         </div>
+        <menu class="ms-hide">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="تعليمات" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu>
+		<div class="general_contents">                                 
+        <div id="ctl00_PlaceHolderMain_RichHtmlField1_label" style="display:none">محتوى الصفحة</div><div id="ctl00_PlaceHolderMain_RichHtmlField1__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_RichHtmlField1_label"><p style="text-align:start;">​يشتمل الصندوق الاستثماري على مجموعة من الأوراق المالية تُختار وفقاً لأسس ومعايير محددة تحقق أهداف الصندوق الاستثمارية. كما تحقق الصناديق الاستثمارية فائدة التنوع للمستثمر بالصندوق التي تؤدي إلى خفض مستوى المخاطر الإجمالية للاستثمار. كما تتجنب استثمارات الصناديق القيود التي تقع عادةً على استثمارات الأفراد، فيتحقق لها مزيد من القدرة على التنويع، وانخفاض في تكاليف بيع وشراء الأسهم. تتكوَّن أرباح الصناديق الاستثمارية عادةً من الأرباح الرأسمالية؛ أي الأرباح الناتجة عن تحسن أو تغير أسعار الأوراق المالية المستثمر بها إضافة إلى أرباح التوزيعات، إن وجدت، للأوراق المالية. قد يتعرض الصندوق للخسارة وذلك في حالة انخفاض قيمة الأوراق المالية المكونة لأصول الصندوق.</p><div style="text-align:start;">&nbsp;وهناك نوعان من الصناديق الاستثمارية:-</div><div style="text-align:start;">&nbsp;<strong>الصندوق العام:</strong><br></div><div style="text-align:start;">وهو صندوق &nbsp;مؤسس في المملكة ويمكن طرح وحداته من قبل مدير الصندوق على مستثمرين في المملكة وفقاً للأحكام الواردة في الباب الرابع من لائحة صناديق الاستثمار بأي طريقة غير الطرح الخاص</div><div style="text-align:start;"><strong>&nbsp;الصندوق الخاص:</strong></div><div style="text-align:start;">وهو صندوق استثمار مؤسس في المملكة لا يكون صندوقاً عاماً ويمكن طرح وحداته على مستثمرين في المملكة وفقـاً للأحكام الـواردة في الباب الخامس مـن لائحة صناديق الاستثمار.​​​​<br><br>​<br></div></div>   
+		</div>
+		 <div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_48baa46c_31f6_44f3_818b_f151dcdb74ab" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div webpartid="48baa46c-31f6-44f3-818b-f151dcdb74ab" haspers="false" id="WebPartctl00_SPWebPartManager1_g_48baa46c_31f6_44f3_818b_f151dcdb74ab" width="100%" class="ms-WPBody noindex " allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_48baa46c_31f6_44f3_818b_f151dcdb74ab">
+					
+
+<style>
+	@media (max-width:990px) {
+		table.fund_tbl td:nth-of-type(1):before {
+			content: 'اسم الصندوق';
+		}
+              table.fund_tbl td:nth-of-type(2):before {
+			content: 'هوية الصندوق';
+		}
+		table.fund_tbl td:nth-of-type(3):before {
+			content: 'التاريخ';
+		}
+
+		table.fund_tbl td:nth-of-type(4):before {
+			content: 'التصنيف';
+		}
+	}
+</style>
+<!-- <div class="int_title">صناديق الاستثمار المرخصة</div> -->
+<ul class="p_tab">
+    <li class="active"><a id="publicfunds" href="/Market/imf/Pages/default.aspx" title="صناديق الاستثمار المرخصة">الصناديق المطروحة طرحاً عاماً</a></li>
+    <li><a id="privatefunds" href="/Market/imf/Pages/Private_Investment_Funds.aspx" title="صناديق الاستثمار المرخصة">الصناديق المطروحة طرحاً خاصاً</a></li>
+</ul>
+<i class="clr"></i>
+<!-- <div class="date">آخر تعديل: </div> -->
+<!-- <span>المؤسسات المالية المرخص لهم من قبل هيئة السوق المالية على الاستمرار في أعمال الأوراق المالية.</span> -->
+<i class="clr" style="height: 50px;"></i>
+<ul class="classification">
+    <li>التصنيف</li>
+    <li>
+        <ul id="classifications"></ul>
+    </li>
+    <li><a href="https://cma.org.sa/Market/imf/Pages/default.aspx" class="square_btn small_btn" title="إزالة الخيارات"><span>إزالة الخيارات</span></a></li>
+</ul>
+<i class="clr" style="height: 20px;"></i>
+<div class="c_select" id="Managers"></div>
+<div class="c_srch">
+    <input type="text" id="txtSearch" placeholder="اسم الصندوق..." title="اسم الصندوق...">
+    <span>
+        <img alt="" src="/Portal/images/f_srch_img.png" onclick="searchPublicFunds();" title="بحث"></span>
+</div>
+<i class="clr" style="height: 50px;"></i>
+<div class="sub_title">مدير الصندوق<a class="lnkcollaps" id="collapsall" href="" title="تصغير الكل">تصغير الكل</a></div>
+<i class="clr"></i>
+<span id="fundlist"><div id="loader"><img alt="" src="/Portal/images/loading.gif"></div></span></div>
+<span class="clr sp"></span>
+<table class="PagerContainerTable">
+    <tbody><tr>
+        <td class="PagerInfoCell"><a class="lnkcollaps" id="showall" href="" title="عرض الكل">عرض الكل</a></td>
+    </tr>
+</tbody></table>
+<span class="clr"></span>
+<script type="text/javascript">
+    $(document).ready(function () {
+        getClassifications('/Market/imf/Lists/PublicClassifications');
+        getManagers('/Market/imf/Lists/PublicManagers');
+		searchPublicFunds();
+		$('.square_btn').attr("href",window.location.href);
+		$('#publicfunds').attr("href", $util.LangUrl +"/Market/imf/Pages/default.aspx");
+		$('#privatefunds').attr("href", $util.LangUrl +"/Market/imf/Pages/Private_Investment_Funds.aspx");
+		$('.ip_title').text('صناديق الاستثمار المرخصة');
+    });
+	
+	// Search Public Funds
+    function searchPublicFunds() {
+		$('#fundlist').html('<div id="loader"><img alt="" src="/Portal/images/loading.gif" /></div>');
+        var html_content = '';
+
+        var classification = '';
+		// get selected manager
+        var mangerId = encodeURI($("#Managersdll").val() != undefined ?$("#Managersdll").val():"");
+		// get fund name from search box
+        var fund = encodeURI($("#txtSearch").val());
+		// get selected Classifications
+        $("#classifications input[type=checkbox]:checked").each(function () {
+            classification = classification.concat(this.value, ',');
+        });
+        classification = encodeURI(classification.substring(0, classification.length - 1));
+
+        $.ajax({
+            type: "GET",
+            contentType: "application/json",
+            url: $util.LangUrl +"/_layouts/15/CMAInternet/CMAInternetHandler.ashx?op=SearchFunds&listUrl="+ $util.LangUrl +"/Market/imf/Lists/PublicFunds&classification="+classification+"&managerId="+mangerId+"&fund="+fund+"&df=yyyy/MM/dd",
+            dataType: 'json',
+            async: true,
+            cache: false,
+            success: function (data) {
+                if (data != undefined && data.length > 0) {
+                    $.each(data, function (key, item) {
+						html_content +='<div class="fund"><div class="page_collapsible" title="'+item.Manager+'">'+item.Manager+'</div>'
+						if (item.Funds != undefined && item.Funds.length > 0) {
+							html_content +='<div class="collaps_container" style="display: none;"><div class="content"><table class="fund_tbl"><thead><tr><th class="publicfund">اسم الصندوق</th><th>هوية الصندوق</th><th>التاريخ</th><th class="publicclassfication">التصنيف</th><th>الشروط والأحكام</th></tr></thead><tbody>' 
+							$.each(item.Funds, function (key, fund) {
+							    html_content += '<tr><td><a target="_blank" href=' + fund.FileURL + ' title="' + fund.Name + '">' + fund.Name + '</a></td><td title="' + fund.FundID + '">' + (fund.FundID != null ? fund.FundID : '-') + '</td><td title="' + fund.ApprovedDate + '">' + fund.ApprovedDate + '</td><td title="' + fund.Classification + '">' + fund.Classification + '</td><td>' + (fund.FileURL != null ? "<a target='_blank' href=" + fund.FileURL + " title='الشروط والأحكام'><img src='/Portal/images/pdf.png'/></a>" : "") + '</td></tr>'                
+							});
+							html_content +='</tbody></table></div></div>'
+						}
+						html_content += '</div>'
+						
+                    });
+					
+                    $('#fundlist').html(html_content);
+					
+					 // collaps for Managers
+					$.fn.slideFadeToggle = function (speed, easing, callback) {
+						return this.animate({ opacity: 'toggle', height: 'toggle' }, speed, easing, callback);
+					};
+					$('.page_collapsible').collapsible({
+						defaultOpen: 'defaultopen',
+						speed: 'slow',
+						animateOpen: function (elem, opts) {
+							elem.next().slideFadeToggle(opts.speed);
+						},
+						animateClose: function (elem, opts) {
+							elem.next().slideFadeToggle(opts.speed);
+						},
+						loadOpen: function (elem) {
+							elem.next().show();
+						},
+						loadClose: function (elem, opts) {
+							elem.next().hide();
+						}
+					});
+                }else{
+					$('#fundlist').html('<div class="emptydata message_b">لا توجد بيانات</div>');
+				}
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {
+            }
+        });
+    }
+	
+	$('#txtSearch').keypress(function (e) {
+            var key = e.which;
+            if (key == 13)  // the enter key code		  
+                searchPublicFunds();
+        });
+		
+	// Expand All Managers
+	$("#showall").click(function(){
+		$('.page_collapsible').next().slideDown('slow');
+		$('.page_collapsible').addClass('collapse-open').removeClass('collapse-close');
+		return false;		
+	});
+	
+	// Collaps All Managers
+	$("#collapsall").click(function(){
+		$('.page_collapsible').next().slideUp('slow');
+		$('.page_collapsible').addClass('collapse-close').removeClass('collapse-open');
+		return false;		
+	});
+
+</script>
+
+				</div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+   
+	<script type="text/javascript">
+		if($('#pageDate').text().trim().length > 0)
+			$('.date').css('display','block');
+	</script>	
+<div style="display:none" id="hidZone"></div>
+			</div>
+			
+</div>
+        </div>
+        <div class="mside">
+			
+
+            
+			
+	
+
+			
+
+            
+		</div>
+        <span class="clr"></span>
+					
+		
+
+     
+	<span class="clr"></span>	
+	
+	 
+
+    <div class="footer noindex">
+        <div>
+            <a href="/" title="الرئيسية" class="flogo"><img alt="" src="/Portal/images/logo.png"></a>
+            <span class="social">
+                 <a target="_blank" href="https://twitter.com/SAUDICMA" title="تويتر"><i class="fa fa-twitter"></i></a>
+                <a target="_blank" href="https://www.facebook.com/SaudiCMA" title="فيسبوك"><i class="fa fa-facebook"></i></a>
+                <a target="_blank" href="https://www.instagram.com/saudicma" title="انستغرام"><i class="fa fa-instagram"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/company/capital-market-authority" title="لينكيدان"><i class="fa fa-linkedin"></i></a>
+                <a target="_blank" href="https://www.youtube.com/saudicma" title="يوتيوب"><i class="fa fa-youtube"></i></a>
+            </span>
+            <span class="clr"></span>
+            <ul class="mainmenu">
+                <li></li>
+            </ul>
+            <span class="clr"></span>
+        </div>
+    </div>
+    <div class="copyright noindex">
+	<div>
+        <div class="fr">
+		<strong>هيئة السوق المالية © جميع الحقوق محفوظة <script type="text/javascript">document.write((new Date()).getFullYear())</script>2021</strong>
+<a title="شروط الاستخدام" href="/Pages/terms.aspx">شروط الاستخدام</a> |
+<a title="خصوصية الاستخدام" href="/pages/privacy.aspx">خصوصية الاستخدام</a>  | 
+<a title="البيانات المفتوحة" href="/pages/opendata.aspx">البيانات المفتوحة</a> | 
+<a title="سياسات الاستخدام الآمن" href="/Pages/Policies-of-Use.aspx">سياسات الاستخدام الآمن</a>  
+
+		<!-- | <a title="نهج الخصوصية" href="/pages/privacy.aspx">نهج الخصوصية</a> | <a title="شروط الاستخدام" href="/pages/terms.aspx">شروط الاستخدام</a> -->
+        </div>
+		<div class="fl">
+<a target="_blank" href="http://saudi.gov.sa" title="البوابة الوطنية"><img src="/Portal/images/saudiLogo.png" alt="البوابة الوطنية"></a>
+		<a target="_blank" href="https://validator.w3.org/check?uri=https://cma.org.sa/Pages/default.aspx" title="التحقق من معايير HTML"><img src="/Portal/images/W3C-xhtml.png" alt=""></a><a href="https://jigsaw.w3.org/css-validator/validator?uri=https://cma.org.sa/Pages/default.aspx" target="_blank" title="التحقق من معايير CSS"><img src="/Portal/images/W3C-css.png" alt=""></a><a href="/pages/w3c.aspx" title="مطابقة الموقع لمعايير W3C"><img src="/Portal/images/W3C-wcag.png" alt=""></a>
+		</div>
+		<i class="clr"></i>
+    </div>
+	</div>
+	
+        <!-- end -->
+	
+        <div id="s4-workspace" class="ms-core-overlay" style="display: none">
+            <div id="s4-bodyContainer">
+                <div id="s4-titlerow" class="ms-dialogHidden s4-titlerowhidetitle">
+                    <div id="titleAreaBox" class="ms-noList ms-table ms-core-tableNoSpace">
+                        <div id="titleAreaRow" class="ms-tableRow">
+                            <div id="siteIcon" class="ms-tableCell ms-verticalAlignTop">
+                                <div id="DeltaSiteLogo">
+	
+                                    <a id="ctl00_onetidProjectPropertyTitleGraphic" title="صناديق الاستثمار المرخصة" class="ms-siteicon-a" href="/Market/imf"><img id="ctl00_onetidHeadbnnr2" class="ms-siteicon-img" name="onetidHeadbnnr0" src="/_layouts/15/images/siteIcon.png?rev=23" alt="صناديق الاستثمار المرخصة"></a>
+                                
+</div>
+                            </div>
+                            <div class="ms-breadcrumb-box ms-tableCell ms-verticalAlignTop">
+                                <div class="ms-breadcrumb-top">
+                                    <div class="ms-breadcrumb-dropdownBox" style="display: none;">
+                                        <span id="DeltaBreadcrumbDropdown">
+                                            
+                                        </span>
+                                    </div>
+                                    <div id="DeltaTopNavigation" class="ms-displayInline ms-core-navigation" role="navigation">
+	
+                                        
+                                        
+                                            <div id="zz1_TopNavigationMenu" class=" noindex ms-core-listMenu-horizontalBox">
+		<ul id="zz2_RootAspMenu" class="root ms-core-listMenu-root static">
+			<li class="static selected"><a class="static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode" title="صناديق الاستثمار المرخصة" href="/Market/imf/Pages/default.aspx" accesskey="1"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">صناديق الاستثمار المرخصة</span><span class="ms-hidden">محدد حالياً</span></span></a><ul class="static">
+				<li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Market/imf/Pages/Public_IMF.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">الصناديق المطروحة طرحاً عاماً</span></span></a></li><li class="static"><a class="static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode" href="/Market/imf/Pages/Private_Investment_Funds.aspx"><span class="additional-background ms-navedit-flyoutArrow"><span class="menu-item-text">الصناديق المطروحة طرحا خاصا</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+                                        
+                                    
+</div>
+                                </div>
+                                <h1 id="pageTitle" class="ms-core-pageTitle">
+                                    <span id="DeltaPlaceHolderPageTitleInTitleArea">
+                                        
+	الصناديق المطروحة طرحاً عاماً
+
+                                    </span>
+                                    <div id="DeltaPlaceHolderPageDescription" class="ms-displayInlineBlock ms-normalWrap">
+	
+                                        <a href="javascript:;" id="ms-pageDescriptionDiv" style="display: none;">
+                                            <span id="ms-pageDescriptionImage">&nbsp;</span>
+                                        </a>
+                                        <span class="ms-accessible" id="ms-pageDescription">
+                                            
+                                        </span>
+                                        <script type="text/javascript">// <![CDATA[ 
+
+
+                                            _spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");
+                                        // ]]>
+</script>
+                                    
+</div>
+                                </h1>
+                            </div>
+                            <div class="ms-tableCell ms-verticalAlignTop">
+                                <div id="DeltaPlaceHolderSearchArea" class="ms-mpSearchBox ms-floatRight">
+	
+                                    
+                                        <div id="searchInputBox">
+                                            <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+		<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " onlyformepart="true" allowdelete="false" style=""><div componentid="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv"><input type="text" value="البحث هذا الموقع" maxlength="2048" accesskey="S" title="البحث هذا الموقع" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText"><a title="بحث" role="button" class="ms-srch-sb-searchLink" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}"><img src="/_layouts/15/images/searchresultui.png?rev=40" class="ms-srch-sb-searchImg" id="searchImg" alt="بحث"></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList"></div></div></div></div></div><noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_noscript">يبدو أن JavaScript غير مُمكن على المستعرض. الرجاء تشغيل JavaScript والمحاولة مرة أخرى.</div></noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1">
+
+		</div><div class="ms-clear"></div></div>
+	</div>
+                                        </div>
+                                    
+                                
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="contentRow">
+                    <div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+                    </div>
+
+                    <div id="DeltaFormDigest">
+	
+                        
+                            <script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xE7D8BB27D9A32D6366C2B1379C851CB2437A329CF7D908D6E1AEAE2859BB7086FCAA93C0368491559EB346014906F2CB3021F2A305FE9F185FE5F397D2B9A580,20 Sep 2021 16:17:04 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                        
+                    
+</div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>	
+		<script type="text/javascript">
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-15559650-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{858c5396-3609-4071-8137-592bb5d897f7}",itemId: 1,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fMarket\u002fimf\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function S6F789EBA_Submit() {if (document.getElementById('ctl00_SearchBox_ctl03').value == '0') { document.getElementById('ctl00_SearchBox_S6F789EBA_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_SearchBox_ctl03','ctl00_SearchBox_S6F789EBA_InputKeywords',null,true,false,null,null,null,null,null,'\u002fsearch\u002fpages\u002fdefault.aspx', '\u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0642\u0639','\u0647\u0630\u0647 \u0627\u0644\u0642\u0627\u0626\u0645\u0629', '\u0647\u0630\u0627 \u0627\u0644\u0645\u062C\u0644\u062F', '\u0627\u0644\u0645\u0648\u0627\u0642\u0639 \u0630\u0627\u062A \u0627\u0644\u0635\u0644\u0629', '\u002fsearch\u002fpages\u002fdefault.aspx', '', '\u0627\u0644\u0631\u062C\u0627\u0621 \u0625\u062F\u062E\u0627\u0644 \u0643\u0644\u0645\u0629 \u0628\u062D\u062B \u0648\u0627\u062D\u062F\u0629 \u0623\u0648 \u0623\u0643\u062B\u0631.');if (document.getElementById('ctl00_SearchBox_ctl03').value == '0') { document.getElementById('ctl00_SearchBox_S6F789EBA_InputKeywords').value='\u0643\u0644\u0645\u0627\u062A \u0627\u0644\u0628\u062D\u062B ...'; }}//]]>
+</script>
+<script type="text/javascript" language="JavaScript">
+// append an onload event handler
+var S6F789EBA__onload= document.body.onload;
+if(typeof document.body.onload == 'function')
+{
+ document.body.onload = function()
+ {
+S6F789EBA__onload();        
+  document.getElementById('ctl00_SearchBox_S6F789EBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+else
+{
+ document.body.onload = function()
+ {
+  eval(S6F789EBA__onload);        
+  document.getElementById('ctl00_SearchBox_S6F789EBA_InputKeywords').name = 'InputKeywords';
+ }
+}
+
+function S6F789EBA_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S6F789EBA_Submit();return false;
+}
+}
+{ var searchTextBox = document.getElementById('ctl00_SearchBox_S6F789EBA_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function _cUpdSearchBox(){var myd = null; if (typeof(dataSearchBox) != 'undefined') {myd = dataSearchBox;} var myc = document.getElementById('ctl00_SearchBox');_cUpdcSearchBox(myd, myc);}function _cUpdcSearchBox(data, ctrl){
+var myInputs = ctrl.getElementsByTagName('input');
+var inpLength = myInputs.length;
+for (var i = 0; i < inpLength; i++)
+{
+    var elem = myInputs[i];
+    switch(elem.id)
+    {
+
+
+
+        case 'ctl00_SearchBox_S6F789EBA_InputKeywords':
+            elem.value = data.SearchBoxText;
+            break;
+
+        case 'ctl00_SearchBox_ctl03':
+            elem.value = data.PromptText;
+            break;
+
+    }
+}
+}var slNavUrl = '\u002fMarket\u002fimf';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}function _cUpdonetidHeadbnnr2(){var myd = null; if (typeof(dataonetidHeadbnnr2) != 'undefined') {myd = dataonetidHeadbnnr2;} var myc = document.getElementById('ctl00_onetidHeadbnnr2');_cUpdconetidHeadbnnr2(myd, myc);}function _cUpdconetidHeadbnnr2(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}g_spPreFetchKeys.push('sp.core.js');
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"ar-SA","webDefaultLanguageName":"ar-SA","contextUrl":"https://cma.org.sa/Market/imf","contextTitle":"صناديق الاستثمار المرخصة","supportedLanguages":[{"id":1025,"label":"العربية"},{"id":1093,"label":"البنغالية"},{"id":1026,"label":"البلغارية"},{"id":1027,"label":"الكتالانية"},{"id":2052,"label":"الصينية (المبسّطة)"},{"id":1028,"label":"الصينية (التقليدية)"},{"id":1050,"label":"الكرواتية"},{"id":1029,"label":"التشيكية"},{"id":1030,"label":"الدانماركية"},{"id":1043,"label":"الهولندية"},{"id":1033,"label":"الإنجليزية"},{"id":1035,"label":"الفنلندية"},{"id":1036,"label":"الفرنسية"},{"id":1031,"label":"الألمانية"},{"id":1032,"label":"اليونانية"},{"id":1095,"label":"الجيوجاراتية"},{"id":1037,"label":"العبرية"},{"id":1081,"label":"الهندية"},{"id":1038,"label":"المجرية"},{"id":1039,"label":"الأيسلندية"},{"id":1057,"label":"الإندونيسية"},{"id":1040,"label":"الإيطالية"},{"id":1041,"label":"اليابانية"},{"id":1099,"label":"الكانادية"},{"id":1042,"label":"الكورية"},{"id":1062,"label":"اللاتفية"},{"id":1063,"label":"اللتوانية"},{"id":1086,"label":"الماليزية"},{"id":1100,"label":"المالايالامية"},{"id":1102,"label":"الماراثية"},{"id":1044,"label":"النرويجية"},{"id":1045,"label":"البولندية"},{"id":1046,"label":"البرتغالية (البرازيل)"},{"id":2070,"label":"البرتغالية (البرتغال)"},{"id":1094,"label":"البنجابية"},{"id":1048,"label":"الرومانية"},{"id":1049,"label":"الروسية"},{"id":3098,"label":"الصربية (السيريلية)"},{"id":2074,"label":"الصربية (اللاتينية)"},{"id":1051,"label":"السلوفاكية"},{"id":1060,"label":"السلوفينية"},{"id":3082,"label":"الأسبانية (أسبانيا)"},{"id":2058,"label":"الأسبانية (المكسيك)"},{"id":1053,"label":"السويدية"},{"id":1097,"label":"التاميلية"},{"id":1098,"label":"التيلوجو"},{"id":1054,"label":"التايلاندية"},{"id":1055,"label":"التركية"},{"id":1058,"label":"الأوكرانية"},{"id":1056,"label":"الأوردية"},{"id":1066,"label":"الفييتنامية"}],"navigationNodes":[{"id":0,"name":"هذا الموقع","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"البحث هذا الموقع"}],"webUILanguageDirectory":"ar-SA","showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"defaultQueryProperties":{"culture":1025,"uiLanguage":1025,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+g_QuickLaunchControlIds.push("zz1_TopNavigationMenu");_spBodyOnLoadFunctionNames.push('QuickLaunchInitDroppable'); var g_zz1_TopNavigationMenu = null; function init_zz1_TopNavigationMenu() { if (g_zz1_TopNavigationMenu == null) g_zz1_TopNavigationMenu = $create(SP.UI.AspMenu, null, null, null, $get('zz1_TopNavigationMenu')); } ExecuteOrDelayUntilScriptLoaded(init_zz1_TopNavigationMenu, 'SP.Core.js');
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"البحث هذا الموقع","messages":[],"navigationNodes":[{"id":0,"name":"هذا الموقع","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"البحث هذا الموقع"}],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","serverInitialRender":true,"showDataErrors":true,"showNavigation":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"));
+                                sb.activate('\u0627\u0644\u0628\u062D\u062B \u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0642\u0639', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');//]]>
+</script>
+</form>
+    <span id="DeltaPlaceHolderUtilityContent">
+        
+    </span>
+    <script type="text/javascript">// <![CDATA[ 
+
+
+        var g_Workspace = "s4-workspace";
+    // ]]>
+</script>
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div>

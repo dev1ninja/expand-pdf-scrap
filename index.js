@@ -15,9 +15,13 @@ async function loadListView(){
         resources: "usable",
         virtualConsole,
     });
-    dom.window.document.querySelectorAll('a').forEach(link => {
-      	console.log(link.href);
-  	});
+    dom.window.document.onload = function() {
+        fs.writeFileSync('body.txt', dom.window.document.body.innerHTML);
+    }
     return dom;
 }
-loadListView()
+loadListView().then((dom) => {
+    dom.window.document.querySelectorAll('a').forEach(link => {
+        console.log(link.href);
+    });
+});
